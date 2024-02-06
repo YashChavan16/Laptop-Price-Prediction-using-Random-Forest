@@ -52,22 +52,4 @@ The Random Forest algorithm is employed for its ability to handle complex datase
 
 The model's performance metrics, such as accuracy and mean absolute error, are documented in the notebook. Visualizations and insights into the feature importance are also included.
 
-## Future Improvements
 
-- Explore additional feature engineering techniques.
-- Experiment with other machine learning algorithms for comparison.
-- Incorporate more extensive datasets for improved generalization.
-
-## Contributors
-
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
-
-For any questions or suggestions, please open an issue or contact [your-email@example.com].
-
-Happy coding!
